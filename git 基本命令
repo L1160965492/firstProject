@@ -1,0 +1,18 @@
+简单的推代码步骤
+
+加入暂存区
+git add .
+
+本次提交记录日志
+git commit -m "这个是提交message"
+
+推代码
+git push origin master (git push)
+
+------------------------------
+
+拉代码
+git pull origin master (git pull)
+
+查看本地源链接
+git remote -v (查看)
